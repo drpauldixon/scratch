@@ -1,0 +1,5 @@
+apache 2 log
+https://gist.githubusercontent.com/drpauldixon/7302e1f6cc7fbf8b008c23f85163fc49/raw/956dac1f4b310ac352ffd2174326d5c4f49b0f65/apache_status_to_log_file.php
+
+php-fpm 2 log
+https://gist.githubusercontent.com/drpauldixon/cadfc30502164ba815029d433c42fb1f/raw/8ef653bccae9e9fe0184b4fde987ee0e32425106/php_fpm_status_to_log_file.php
