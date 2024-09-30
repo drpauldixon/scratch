@@ -36,7 +36,7 @@ foreach ($status_lines as $line) {
         // Convert numeric values to their respective types and format floats to 1 decimal place
         if (is_numeric($value)) {
             if (strpos($value, '.') !== false) {
-                $value = number_format((float)$value, 1);
+                $value = number_format((float)$value, 1, '.', '');
             } else {
                 $value = (int)$value;
             }
