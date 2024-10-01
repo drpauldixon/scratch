@@ -3,7 +3,7 @@
 // a tab separated log file
 
 // URL to the Apache server status page
-$url = "http://127.0.0.1/server-status?auto";
+$url = "http://127.0.0.1:8080/server-status?auto";
 $log_file = '/var/log/httpd/apache-status.log';
 
 // Stats to collect
